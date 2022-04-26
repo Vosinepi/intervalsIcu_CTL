@@ -4,8 +4,8 @@ from urllib import response
 import requests
 
 # datos
-api_token = "reemplazar por API_KEY"
-id_atleta = "id_atleta"
+api_token = "6jwnhm6ahkrwaoi9l58s20bgh"
+id_atleta = "i61568"
 
 # request
 response = requests.get(
